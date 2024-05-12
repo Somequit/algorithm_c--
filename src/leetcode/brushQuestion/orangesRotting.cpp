@@ -9,7 +9,7 @@
 using namespace std;
 
 /**
- * 暴力将每个腐烂的橘子扩散
+ * 多源 BFS
  */
 int orangesRotting(vector<vector<int>> &grid)
 {
