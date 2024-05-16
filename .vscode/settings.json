@@ -35,7 +35,8 @@
 "files.associations": {
     "vector": "cpp",
     "__split_buffer": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "algorithm": "cpp"
 },
 
 "code-runner.executorMap": { "cpp": "g++ src/leetcode/brushQuestion/$fileName -std=c++17 -o src/leetcode/brushQuestion/$fileNameWithoutExt.out && ./src/leetcode/brushQuestion/$fileNameWithoutExt.out" }
