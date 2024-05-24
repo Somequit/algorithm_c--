@@ -58,11 +58,13 @@
     "unordered_set": "cpp",
     "valarray": "cpp",
     "ostream": "cpp",
-    "iosfwd": "cpp"
+    "iosfwd": "cpp",
+    "queue": "cpp",
+    "utility": "cpp"
 },
 
 
-// "code-runner.executorMap": { "cpp": "g++ src/leetcode/brushQuestion/$fileName -std=c++17 -o src/leetcode/brushQuestion/$fileNameWithoutExt.out && ./src/leetcode/brushQuestion/$fileNameWithoutExt.out" }
-"code-runner.executorMap": { "cpp": "g++ src/ccf/contest_30/$fileName -std=c++17 -o src/ccf/contest_30/$fileNameWithoutExt.out && ./src/ccf/contest_30/$fileNameWithoutExt.out" }
+"code-runner.executorMap": { "cpp": "g++ src/leetcode/brushQuestion/$fileName -std=c++17 -o src/leetcode/brushQuestion/$fileNameWithoutExt.out && ./src/leetcode/brushQuestion/$fileNameWithoutExt.out" }
+// "code-runner.executorMap": { "cpp": "g++ src/ccf/contest_30/$fileName -std=c++17 -o src/ccf/contest_30/$fileNameWithoutExt.out && ./src/ccf/contest_30/$fileNameWithoutExt.out" }
 
 }
