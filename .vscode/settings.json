@@ -63,7 +63,10 @@
     "utility": "cpp",
     "random": "cpp",
     "optional": "cpp",
-    "stack": "cpp"
+    "stack": "cpp",
+    "bitset": "cpp",
+    "chrono": "cpp",
+    "__config": "cpp"
 },
 
 
